@@ -17,13 +17,13 @@
  
   };
 ```
-**
+*
   TOKEN = discord bot tokeniniz
   GUILD_ID = sunucu idniz
   ROLE_ID = durum alanlara verilecek rol id
   EXPECTED_STATUS = kullanıcılar durumuna ne yazarsa rolü vericek falan falan
   STATUS = botun oynuyor kısmı
-**
+*
 
   node . 
   node index.js  ikisinden birini yaz arkana yaslan
